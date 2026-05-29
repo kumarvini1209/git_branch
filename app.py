@@ -1,7 +1,7 @@
 # Simple Python Program
 
-name = input("Enter your name: ")
-age = int(input("Enter your age: "))
+Name = input("Enter your name: ")
+Age = int(input("Enter your age: "))
 
 print(f"Hello {Name}!")
 print(f"You are {Age} years old.")
